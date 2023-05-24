@@ -1,0 +1,4 @@
+phone num 000 000 0000
+git status
+cls
+west summit supplies | Utah | 000 000 0000
